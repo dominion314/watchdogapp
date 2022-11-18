@@ -1,4 +1,4 @@
-# watchdog (watchdog)
+# This repo is to build an app using vue.js, firebase, and quasar. 
 
 watchdog app
 
@@ -22,3 +22,5 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+
+
