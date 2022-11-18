@@ -1,0 +1,2 @@
+This folder is for images and CSS files used in the app. When we build our app everything here will be 
+available at root so for example the favicon.ico file is at "/favicon.ico"

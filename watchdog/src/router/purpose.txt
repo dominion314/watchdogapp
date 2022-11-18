@@ -1,0 +1,2 @@
+This route file configures all of the root paths for files and pages. We start with one root
+path to our index.js file, which is the main page we start with.

@@ -1,0 +1,1 @@
+Boot files allow us to initalize a plugin or package before our app starts. We will add a boot file for Firebase.

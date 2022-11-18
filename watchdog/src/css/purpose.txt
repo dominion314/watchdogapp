@@ -1,0 +1,1 @@
+Global CSS file to customer colors of our theme and overall look.
